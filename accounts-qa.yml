@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to BankApp accounts related Quality Analysis APIs "
   contactDetails:
-    name: "Smitha Ray - QA Lead"
+    name: "Snehal Mane - QA Lead"
     email: "{cipher}2d5a5325e47fc4105bd0bad870a34624925767fd947aef1101bfd2447fceb7ca284aea0647ab75df72b75e512dc78d7c"
   onCallSupport:
     - (666) 265-3765
